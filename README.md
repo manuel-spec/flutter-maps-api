@@ -17,13 +17,13 @@ Follow these steps to set up the project locally:
 1. Clone this repository to your local machine using:
 
     ```
-    git clone https://github.com/your-username/flutter-map-integration.git
+    git clone https://github.com/manuel-spec/flutter-maps-api
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd flutter-map-integration
+    cd flutter-maps-api
     ```
 
 3. Install dependencies:
